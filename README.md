@@ -1,4 +1,4 @@
-# ud_project_04
+# Flutter Expense Tracker App
 
 A new Flutter project.
 
